@@ -1,0 +1,10 @@
+0.6
+2016.4
+Dec 14 2016
+22:58:16
+D:/project/CPU_SOC/CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/ALU.vhd,1490789376,vhdl,,,,alu,,,,,,,,
+D:/project/CPU_SOC/CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/IDU.vhd,1491858309,vhdl,,,,idu,,,,,,,,
+D:/project/CPU_SOC/CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/MicroController_new.vhd,1492442522,vhdl,,,,microcontroller,,,,,,,,
+D:/project/CPU_SOC/CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/Register_Bank.vhd,1492441992,vhdl,,,,register_bank,,,,,,,,
+D:/project/CPU_SOC/CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/inst_ROM_new.vhd,1492441691,vhdl,,,,inst_rom,,,,,,,,
+D:/project/CPU_SOC/CPU_SOC.srcs/sources_1/imports/sources_1/new/top.vhd,1492441427,vhdl,,,,top,,,,,,,,

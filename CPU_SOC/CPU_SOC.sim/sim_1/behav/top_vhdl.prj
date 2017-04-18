@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/IDU.vhd"
+vhdl xil_defaultlib  "../../../CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/ALU.vhd"
+vhdl xil_defaultlib  "../../../CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/Register_Bank.vhd"
+vhdl xil_defaultlib  "../../../CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/inst_ROM_new.vhd"
+vhdl xil_defaultlib  "../../../CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/MicroController_new.vhd"
+vhdl xil_defaultlib  "../../../CPU_SOC.srcs/sources_1/imports/sources_1/new/top.vhd"
+
+# Do not sort compile order
+nosort

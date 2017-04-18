@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/project/CPU_SOC/CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/IDU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity IDU
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/project/CPU_SOC/CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/project/CPU_SOC/CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/Register_Bank.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Register_Bank
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/project/CPU_SOC/CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/inst_ROM_new.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity inst_ROM
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/project/CPU_SOC/CPU_SOC.srcs/sources_1/imports/sources_1/imports/soc/MicroController_new.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MicroController
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/project/CPU_SOC/CPU_SOC.srcs/sources_1/imports/sources_1/new/top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity top
